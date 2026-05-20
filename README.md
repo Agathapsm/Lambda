@@ -1,4 +1,4 @@
-# LAMBDA EXPRESSIONS - JAVA
+# LAMBDA - JAVA
 
 Projeto em Java desenvolvido para praticar o uso de **Expressões Lambda**, `Predicate` e manipulação de listas com `forEach`.
 
